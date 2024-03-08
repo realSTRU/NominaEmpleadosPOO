@@ -22,7 +22,7 @@ namespace Nomina
         public int horasExtras = 0;
 
         public Empleado(string nombre, string apellido, string cedula, string telefono, string direccion,
-            string departamento, string puesto, float sueldo)
+            string departamento, string puesto, float sueldo, int horas)
         {
             this.nombre = nombre;
             this.apellido = apellido;
@@ -32,6 +32,7 @@ namespace Nomina
             this.departamento = departamento;
             this.puesto = puesto;
             this.sueldo = sueldo;
+            this.horasExtras = horas;
         }
 
         public string GetCedula()

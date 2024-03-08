@@ -112,7 +112,7 @@ namespace Nomina
             horasExtras = Console.ReadLine();
             horas = Convert.ToInt32(horasExtras);
             
-            Empleado empleado = new Empleado(nombre,apellido, cedula, telefono, direccion, departamento, puesto, sueldo);
+            Empleado empleado = new Empleado(nombre,apellido, cedula, telefono, direccion, departamento, puesto, sueldo, horas);
             empleado.GetSueldoNeto();
             empleados.Add(empleado);
             Console.WriteLine("Empleado Registrado!");
