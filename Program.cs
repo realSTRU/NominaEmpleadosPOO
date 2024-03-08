@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net;
 
 namespace Nomina
@@ -64,7 +65,7 @@ namespace Nomina
                         break;
 
                 }
-            } while (opcion != 3 || opcion < 3 && opcion > 0);
+            } while (opcion != 6 || opcion < 6 && opcion > 0);
         }
 
         public static void RegistrarEmpleado()
@@ -78,6 +79,8 @@ namespace Nomina
             string puesto = "";
             float sueldo = 0;
             string valor = "";
+            string horasExtras="";
+            int horas = 0;
 
             Console.WriteLine("~~ Registrar Empleado ~~");
 
@@ -105,7 +108,10 @@ namespace Nomina
             Console.Write("Digite el sueldo: ");
             valor = Console.ReadLine();
             sueldo = Convert.ToSingle(valor);
-
+            Console.Write("Digite las horas extra Iniciales:");
+            horasExtras = Console.ReadLine();
+            horas = Convert.ToInt32(horasExtras);
+            
             Empleado empleado = new Empleado(nombre,apellido, cedula, telefono, direccion, departamento, puesto, sueldo);
             empleado.GetSueldoNeto();
             empleados.Add(empleado);
@@ -153,6 +159,7 @@ namespace Nomina
             string cedula = Console.ReadLine();
 
             Empleado empleadoActualizar = empleados.Find(empleado => empleado.cedula == cedula);
+            empleados.Remove(empleadoActualizar);
 
             if (empleadoActualizar != null)
             {
@@ -170,10 +177,12 @@ namespace Nomina
                 empleadoActualizar.puesto = Console.ReadLine();
 
                 Console.WriteLine("Empleado actualizado correctamente.");
+                empleados.Add(empleadoActualizar);
             }
             else
             {
                 Console.WriteLine("Empleado no encontrado.");
+                
             }
         }
 

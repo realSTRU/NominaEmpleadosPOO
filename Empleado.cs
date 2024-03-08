@@ -19,6 +19,7 @@ namespace Nomina
         public string puesto = "";
         public float sueldo = 0;
         public float sueldoNeto = 0;
+        public int horasExtras = 0;
 
         public Empleado(string nombre, string apellido, string cedula, string telefono, string direccion,
             string departamento, string puesto, float sueldo)
@@ -66,6 +67,27 @@ namespace Nomina
 
             return 1;
         }
+        public float GetPagoHorasExtra()
+        {
+            int horasTrabajadas = horasExtras;
+            float pagoExtra = 0;
+            int horasOrdinarias = 44; // Jornada laboral ordinaria
+
+            if (horasTrabajadas > horasOrdinarias && horasTrabajadas <= 68)
+            {
+                int horasExtra35 = horasTrabajadas - horasOrdinarias;
+                pagoExtra = horasExtra35 * (sueldo / horasOrdinarias) * 1.35f;
+            }
+            else if (horasTrabajadas > 68)
+            {
+                int horasExtra100 = horasTrabajadas - 68;
+                int horasExtra35 = 68 - horasOrdinarias;
+                pagoExtra = (horasExtra35 * (sueldo / horasOrdinarias) * 1.35f) + (horasExtra100 * (sueldo / horasOrdinarias) * 2);
+            }
+
+            return pagoExtra;
+        }
+
 
         public float GetSueldoNeto()
         {
@@ -76,8 +98,8 @@ namespace Nomina
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendFormat("Nombre: {0}\nApellido: {1}\nCedula: {2}\nTelefono: {3}"
-                +"\nDireccion: {4}\nDepartemento: {5}\nPuesto: {6}\nSueldo: {7}\nAFP: {8}\nSFS: {9}\nISR: {10}"
-                +"\nSueldo Neto: {11}",nombre,apellido,cedula,telefono,direccion,departamento,puesto,sueldo,GetAFP(),GetSFS(),GetSIR(),sueldoNeto);
+                +"\nDireccion: {4}\nDepartemento: {5}\nPuesto: {6}\nSueldo: {7}\nAFP: {8}\nSFS: {9}\nISR: {10}\n"
+                + "\nSueldo Neto: {11} \nHora Extras Pago: {12}", nombre,apellido,cedula,telefono,direccion,departamento,puesto,sueldo,GetAFP(),GetSFS(),GetSIR(),sueldoNeto,GetPagoHorasExtra());
             return (sb.ToString());
         }
     }

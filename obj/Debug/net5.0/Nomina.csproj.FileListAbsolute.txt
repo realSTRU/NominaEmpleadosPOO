@@ -45,3 +45,4 @@ C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Uni
 C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.pdb
 C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.genruntimeconfig.cache
 C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\ref\Nomina.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.sourcelink.json
