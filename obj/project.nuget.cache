@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EgN+VcCupA3S29VUlgYnaqPr+N+1SsQSZkubGosvQDxtbyXWJfKvMargP5MyMdOqszKKpfa/C5gc+V6r7bTNGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cesar\\OneDrive - Universidad Católica Nordestana (UCNE)\\Escritorio\\Universidad\\Cuatrimestre 1-2024\\Lenguaje de programacion\\C programs\\Nomina\\Nomina\\Nomina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

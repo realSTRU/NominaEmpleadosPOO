@@ -1,0 +1,47 @@
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.exe
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\bin\Debug\net5.0\ref\Nomina.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.pdb
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\ref\Nomina.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.pdb
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.genruntimeconfig.cache
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.exe
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.deps.json
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.runtimeconfig.json
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.runtimeconfig.dev.json
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.dll
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\bin\Debug\net5.0\Nomina.pdb
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.csproj.AssemblyReference.cache
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.AssemblyInfoInputs.cache
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.AssemblyInfo.cs
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.csproj.CoreCompileInputs.cache
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.dll
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\refint\Nomina.dll
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.pdb
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\Nomina.genruntimeconfig.cache
+C:\Clases\Semestre 2-2023\Lenguaje de Programacion\Lenguaje de programacion\Lenguaje de programacion\Nomina\obj\Debug\net5.0\ref\Nomina.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\bin\Debug\net5.0\Nomina.exe
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\bin\Debug\net5.0\Nomina.deps.json
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\bin\Debug\net5.0\Nomina.runtimeconfig.json
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\bin\Debug\net5.0\Nomina.runtimeconfig.dev.json
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\bin\Debug\net5.0\Nomina.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\bin\Debug\net5.0\Nomina.pdb
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.AssemblyInfo.cs
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\refint\Nomina.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.pdb
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\Nomina.genruntimeconfig.cache
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 1-2024\Lenguaje de programacion\C programs\Nomina\Nomina\obj\Debug\net5.0\ref\Nomina.dll
